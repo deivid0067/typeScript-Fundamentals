@@ -4,7 +4,7 @@
   "description": "Eae! Bem-vindo ao meu repositório pessoal de aprendizado em **TypeScript**! Aqui, vou registrar exercícios, projetos e conceitos que estou explorando.",
   "main": "index.js",
   "scripts": {
-    "start": "ts-node-dev --respawn --transpile-only introduction/index.ts"
+    "start": "ts-node-dev --respawn --transpile-only Exercises_1/concepts.ts"
   },
   "keywords": [],
   "author": "",

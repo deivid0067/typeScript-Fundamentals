@@ -34,6 +34,8 @@ undefinedVariable = 'Pode ser uma string..'
 console.log(undefinedVariable)
 
 // Void, Null e Undefined => void -> Funções que não retornam nada. Null e Undefined são subtipos de todos os outros tipos.
-function alert(): void {
-    alert('Isso é uma mensagem de alerta')
+function signal(): void {
+    console.log('Mensagem')
 }
+
+signal()
